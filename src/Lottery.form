@@ -22,10 +22,10 @@
               </grid>
             </constraints>
             <properties>
-              <text value="Вие играете Лото 6/47. Моля изберете 6 числа и вижте каква е печалбата ви."/>
+              <text value="Вие играете Лото 6/49. Моля изберете 6 числа и вижте каква е печалбата ви."/>
             </properties>
           </component>
-          <grid id="903cf" binding="fourth" layout-manager="GridLayoutManager" row-count="1" column-count="10" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+          <grid id="903cf" binding="fifthRow" layout-manager="GridLayoutManager" row-count="1" column-count="10" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
             <margin top="0" left="0" bottom="0" right="0"/>
             <constraints>
               <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
@@ -89,7 +89,23 @@
                   <text value="47"/>
                 </properties>
               </component>
-              <grid id="c2c16" binding="space" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+              <component id="42ef7" class="javax.swing.JCheckBox" binding="number48">
+                <constraints>
+                  <grid row="0" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="48"/>
+                </properties>
+              </component>
+              <component id="897f8" class="javax.swing.JCheckBox" binding="number49">
+                <constraints>
+                  <grid row="0" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="49"/>
+                </properties>
+              </component>
+              <grid id="985a1" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
                 <margin top="0" left="0" bottom="0" right="0"/>
                 <constraints>
                   <grid row="0" column="9" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
@@ -98,27 +114,9 @@
                 <border type="none"/>
                 <children/>
               </grid>
-              <grid id="9bd8a" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
-                <margin top="0" left="0" bottom="0" right="0"/>
-                <constraints>
-                  <grid row="0" column="8" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
-                </constraints>
-                <properties/>
-                <border type="none"/>
-                <children/>
-              </grid>
-              <grid id="e4f85" binding="empty" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
-                <margin top="0" left="0" bottom="0" right="0"/>
-                <constraints>
-                  <grid row="0" column="7" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
-                </constraints>
-                <properties/>
-                <border type="none"/>
-                <children/>
-              </grid>
             </children>
           </grid>
-          <grid id="e6b25" binding="third" layout-manager="GridLayoutManager" row-count="1" column-count="10" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+          <grid id="e6b25" binding="fourthRow" layout-manager="GridLayoutManager" row-count="1" column-count="10" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
             <margin top="0" left="0" bottom="0" right="0"/>
             <constraints>
               <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
@@ -208,7 +206,7 @@
               </component>
             </children>
           </grid>
-          <grid id="fe5b" binding="second" layout-manager="GridLayoutManager" row-count="1" column-count="10" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+          <grid id="fe5b" binding="thirdRow" layout-manager="GridLayoutManager" row-count="1" column-count="10" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
             <margin top="0" left="0" bottom="0" right="0"/>
             <constraints>
               <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
@@ -298,7 +296,7 @@
               </component>
             </children>
           </grid>
-          <grid id="64619" binding="first" layout-manager="GridLayoutManager" row-count="1" column-count="10" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+          <grid id="64619" binding="secondRow" layout-manager="GridLayoutManager" row-count="1" column-count="10" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
             <margin top="0" left="0" bottom="0" right="0"/>
             <constraints>
               <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
@@ -388,7 +386,7 @@
               </component>
             </children>
           </grid>
-          <grid id="46abf" layout-manager="GridLayoutManager" row-count="1" column-count="10" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+          <grid id="46abf" binding="firstRow" layout-manager="GridLayoutManager" row-count="1" column-count="10" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
             <margin top="0" left="0" bottom="0" right="0"/>
             <constraints>
               <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
@@ -396,7 +394,7 @@
             <properties/>
             <border type="none"/>
             <children>
-              <component id="10bd6" class="javax.swing.JCheckBox" binding="a1CheckBox1" default-binding="true">
+              <component id="10bd6" class="javax.swing.JCheckBox" binding="number1">
                 <constraints>
                   <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -404,7 +402,7 @@
                   <text value="1"/>
                 </properties>
               </component>
-              <component id="c972a" class="javax.swing.JCheckBox" binding="a2CheckBox" default-binding="true">
+              <component id="c972a" class="javax.swing.JCheckBox" binding="number2">
                 <constraints>
                   <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -412,7 +410,7 @@
                   <text value="2"/>
                 </properties>
               </component>
-              <component id="aa93b" class="javax.swing.JCheckBox" binding="a9CheckBox" default-binding="true">
+              <component id="aa93b" class="javax.swing.JCheckBox" binding="number9">
                 <constraints>
                   <grid row="0" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -420,7 +418,7 @@
                   <text value="9"/>
                 </properties>
               </component>
-              <component id="d825b" class="javax.swing.JCheckBox" binding="a3CheckBox" default-binding="true">
+              <component id="d825b" class="javax.swing.JCheckBox" binding="number3">
                 <constraints>
                   <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -428,7 +426,7 @@
                   <text value="3"/>
                 </properties>
               </component>
-              <component id="72c14" class="javax.swing.JCheckBox" binding="a4CheckBox" default-binding="true">
+              <component id="72c14" class="javax.swing.JCheckBox" binding="number4">
                 <constraints>
                   <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -436,7 +434,7 @@
                   <text value="4"/>
                 </properties>
               </component>
-              <component id="47f14" class="javax.swing.JCheckBox" binding="a5CheckBox" default-binding="true">
+              <component id="47f14" class="javax.swing.JCheckBox" binding="number5">
                 <constraints>
                   <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -444,7 +442,7 @@
                   <text value="5"/>
                 </properties>
               </component>
-              <component id="c242c" class="javax.swing.JCheckBox" binding="a6CheckBox" default-binding="true">
+              <component id="c242c" class="javax.swing.JCheckBox" binding="number6">
                 <constraints>
                   <grid row="0" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -452,7 +450,7 @@
                   <text value="6"/>
                 </properties>
               </component>
-              <component id="9e93b" class="javax.swing.JCheckBox" binding="a8CheckBox" default-binding="true">
+              <component id="9e93b" class="javax.swing.JCheckBox" binding="number8">
                 <constraints>
                   <grid row="0" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -460,7 +458,7 @@
                   <text value="8"/>
                 </properties>
               </component>
-              <component id="5484f" class="javax.swing.JCheckBox" binding="a7CheckBox" default-binding="true">
+              <component id="5484f" class="javax.swing.JCheckBox" binding="number7">
                 <constraints>
                   <grid row="0" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -468,7 +466,7 @@
                   <text value="7"/>
                 </properties>
               </component>
-              <component id="ba6b2" class="javax.swing.JCheckBox" binding="a10CheckBox" default-binding="true">
+              <component id="ba6b2" class="javax.swing.JCheckBox" binding="number10">
                 <constraints>
                   <grid row="0" column="9" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>

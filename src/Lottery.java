@@ -1,5 +1,3 @@
-import jdk.nashorn.internal.scripts.JO;
-
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.*;
@@ -8,8 +6,15 @@ import javax.swing.*;
 
 public class Lottery {
     List<Integer> userPicks = new ArrayList<>();
-    List<Integer> lotteryNumbers = new ArrayList<>();
+    List<Integer> firstDrawOfNumbers = new ArrayList<>();
+    List<Integer> secondDrawOfNumbers = new ArrayList<>();
+    List<Integer> thirdDrawOfNumbers = new ArrayList<>();
 
+    private JPanel firstRow;
+    private JPanel secondRow;
+    private JPanel thirdRow;
+    private JPanel fourthRow;
+    private JPanel fifthRow;
     private JPanel panel1;
     private JTextArea виеИграетеЛото6TextArea;
     private JCheckBox number11;
@@ -22,10 +27,6 @@ public class Lottery {
     private JCheckBox number18;
     private JCheckBox number19;
     private JCheckBox number20;
-    private JPanel first;
-    private JPanel fourth;
-    private JPanel third;
-    private JPanel second;
     private JCheckBox number21;
     private JCheckBox number30;
     private JCheckBox number29;
@@ -46,15 +47,15 @@ public class Lottery {
     private JCheckBox number39;
     private JCheckBox number37;
     private JCheckBox number38;
-    private JCheckBox a1CheckBox1;
-    private JCheckBox a2CheckBox;
-    private JCheckBox a9CheckBox;
-    private JCheckBox a3CheckBox;
-    private JCheckBox a4CheckBox;
-    private JCheckBox a5CheckBox;
-    private JCheckBox a6CheckBox;
-    private JCheckBox a8CheckBox;
-    private JCheckBox a7CheckBox;
+    private JCheckBox number1;
+    private JCheckBox number2;
+    private JCheckBox number9;
+    private JCheckBox number3;
+    private JCheckBox number4;
+    private JCheckBox number5;
+    private JCheckBox number6;
+    private JCheckBox number8;
+    private JCheckBox number7;
     private JCheckBox number41;
     private JCheckBox number46;
     private JCheckBox number45;
@@ -62,117 +63,140 @@ public class Lottery {
     private JCheckBox number43;
     private JCheckBox number42;
     private JCheckBox number47;
-    private JCheckBox a10CheckBox;
-    private JPanel empty;
-    private JPanel space;
+    private JCheckBox number10;
     private JButton натиснетеТукЗаДаButton;
+    private JCheckBox number48;
+    private JCheckBox number49;
+
 
     public static void numberGenerator(List<Integer> number) {
         Random rand = new Random();
         for (int i = 0; i < 6; i++) {
-            number.add(rand.nextInt(47) + 1);
+            number.add(rand.nextInt(49) + 1);
             for (int j = i; j >= 0; j--) {
                 if (number.get(i) == number.get(j)) {
                     number.remove(i);
-                    number.add(rand.nextInt(47) + 1);
+                    number.add(rand.nextInt(49) + 1);
                 }
             }
         }
     }
 
-    public static String getYourPrize(List<Integer> arrayList, List<Integer> list) {
-        int counter = 0;
+    public static String getYourPrize(List<Integer> firstDraw, List<Integer> secondDraw, List<Integer> thirdDraw, List<Integer> userNumbers) {
+        int counter, maxCounter = 0;
         String prize;
+        counter = checkIfCounterIsBigger(firstDraw, userNumbers);
+        if (counter > maxCounter) {
+            maxCounter = counter;
+        }
+        counter = checkIfCounterIsBigger(secondDraw, userNumbers);
+        if (counter > maxCounter) {
+            maxCounter = counter;
+        }
+        counter = checkIfCounterIsBigger(thirdDraw, userNumbers);
+        if (counter > maxCounter) {
+            maxCounter = counter;
+        }
+        prize = counterOfNumbers(maxCounter);
+        return prize;
+    }
+
+    public static int checkIfCounterIsBigger(List<Integer> drawing, List<Integer> numbersOfClient) {
+        int counter = 0;
         for (int i = 0; i < 6; i++) {
             for (int j = 0; j < 6; j++) {
-                if (list.get(i) == arrayList.get(j)) {
+                if (numbersOfClient.get(i) == drawing.get(j)) {
                     counter++;
                 }
             }
         }
+        return counter;
+    }
+
+    public static String counterOfNumbers(int counter) {
+        String prize;
         switch (counter) {
             case 1:
-                prize = "You win 3€";
+                prize = "You guessed 1 number and win 3€";
                 break;
             case 2:
-                prize = "You win 10€";
+                prize = "You guessed 2 numbers and win 10€";
                 break;
             case 3:
-                prize = "You win 50€";
+                prize = "You guessed 3 numbers and win 50€";
                 break;
             case 4:
-                prize = "You win 500€";
+                prize = "You guessed 4 numbers and win 500€";
                 break;
             case 5:
-                prize = "You win 1000€";
+                prize = "You guessed 5 numbers and win 1000€";
                 break;
             case 6:
-                prize = "Congratulations! You win the grand prize 1 000 000€ ";
+                prize = "Congratulations! You guessed all the numbers and win the grand prize 1 000 000€ ";
                 break;
             default:
-                prize = "You don't win anything.Next time you will be lucky";
+                prize = "You don't win anything.0 guessed numbers.Next time you will be lucky";
         }
         return prize;
     }
 
-
     public Lottery() {
 
-        a1CheckBox1.addActionListener(new ActionListener() {
+        number1.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 userPicks.add(1);
             }
         });
-        a2CheckBox.addActionListener(new ActionListener() {
+        number2.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 userPicks.add(2);
             }
         });
-        a3CheckBox.addActionListener(new ActionListener() {
+        number3.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 userPicks.add(3);
             }
         });
-        a4CheckBox.addActionListener(new ActionListener() {
+        number4.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 userPicks.add(4);
             }
         });
-        a5CheckBox.addActionListener(new ActionListener() {
+        number5.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 userPicks.add(5);
             }
         });
-        a6CheckBox.addActionListener(new ActionListener() {
+        number6.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 userPicks.add(6);
             }
         });
-        a7CheckBox.addActionListener(new ActionListener() {
+        number7.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 userPicks.add(7);
             }
         });
-        a8CheckBox.addActionListener(new ActionListener() {
+        number8.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 userPicks.add(8);
             }
         });
-        a9CheckBox.addActionListener(new ActionListener() {
+        number9.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 userPicks.add(9);
             }
         });
-        a10CheckBox.addActionListener(new ActionListener() {
+        number10.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 userPicks.add(10);
@@ -400,13 +424,30 @@ public class Lottery {
                 userPicks.add(47);
             }
         });
+        number48.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                userPicks.add(48);
+            }
+        });
+        number49.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                userPicks.add(49);
+            }
+        });
         натиснетеТукЗаДаButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                numberGenerator(lotteryNumbers);
-                JOptionPane.showMessageDialog(null, "Your numbers are" + userPicks + '\n' + "The winning numbers are" + lotteryNumbers + '\n' + getYourPrize(lotteryNumbers, userPicks));
+                numberGenerator(firstDrawOfNumbers);
+                numberGenerator(secondDrawOfNumbers);
+                numberGenerator(thirdDrawOfNumbers);
+                JOptionPane.showMessageDialog(null, "First draw " + firstDrawOfNumbers + '\n' + "Second draw " + secondDrawOfNumbers + '\n'
+                        + "Third draw " + thirdDrawOfNumbers + '\n' + getYourPrize(firstDrawOfNumbers, secondDrawOfNumbers, thirdDrawOfNumbers, userPicks));
             }
         });
+
+
     }
 
     public static void main(String[] args) {
