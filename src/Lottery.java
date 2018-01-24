@@ -67,6 +67,7 @@ public class Lottery {
     private JButton натиснетеТукЗаДаButton;
     private JCheckBox number48;
     private JCheckBox number49;
+    private JButton newGame;
 
 
     public static void numberGenerator(List<Integer> number) {
@@ -448,6 +449,15 @@ public class Lottery {
         });
 
 
+        newGame.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                firstDrawOfNumbers.clear();
+                secondDrawOfNumbers.clear();
+                thirdDrawOfNumbers.clear();
+                userPicks.clear();
+            }
+        });
     }
 
     public static void main(String[] args) {

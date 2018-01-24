@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae6eb962-8d00-4e91-be03-55af93380bd2" name="Default" comment="" />
+    <list default="true" id="ae6eb962-8d00-4e91-be03-55af93380bd2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$1.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$10.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$11.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$12.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$13.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$14.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$15.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$16.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$17.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$18.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$19.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$2.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$20.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$21.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$22.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$23.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$23.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$24.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$24.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$25.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$25.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$26.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$26.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$27.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$27.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$28.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$28.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$29.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$29.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$3.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$30.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$30.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$31.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$31.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$32.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$32.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$33.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$33.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$34.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$34.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$35.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$35.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$36.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$36.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$37.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$37.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$38.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$38.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$39.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$39.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$4.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$40.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$40.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$41.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$41.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$42.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$42.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$43.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$43.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$44.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$44.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$45.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$45.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$46.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$46.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$47.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$47.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$48.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$48.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$5.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$6.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$7.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$8.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$9.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lottery.form" afterPath="$PROJECT_DIR$/src/Lottery.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lottery.java" afterPath="$PROJECT_DIR$/src/Lottery.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,9 +68,11 @@
       <file leaf-file-name="Lottery.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lottery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-              <folding />
+            <state relative-caret-position="342">
+              <caret line="457" column="34" lean-forward="false" selection-start-line="457" selection-start-column="34" selection-end-line="457" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,6 +92,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -73,8 +131,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,7 +147,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,21 +281,29 @@
       <option name="presentableId" value="Default" />
       <updated>1516036326388</updated>
     </task>
+    <task id="LOCAL-00001" summary="I added the numbers 48 and 49. Fixed from one drawing to three">
+      <created>1516612161674</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516612161674</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12202853" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12202853" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -246,13 +312,12 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12202853" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -260,12 +325,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I added the numbers 48 and 49. Fixed from one drawing to three" />
+    <option name="LAST_COMMIT_MESSAGE" value="I added the numbers 48 and 49. Fixed from one drawing to three" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Lottery.java</url>
-          <line>8</line>
+          <line>6</line>
           <properties />
         </line-breakpoint>
       </breakpoints>
@@ -278,7 +347,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -291,7 +362,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -304,7 +377,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -317,7 +392,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -330,7 +407,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -343,7 +422,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -356,7 +437,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -369,7 +452,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -382,7 +467,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lottery.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lottery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lottery.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lottery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lottery.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lottery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -395,7 +527,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
           <caret line="61" column="54" lean-forward="true" selection-start-line="61" selection-start-column="54" selection-end-line="61" selection-end-column="54" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -408,7 +542,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -421,7 +557,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -441,9 +579,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lottery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="342">
+          <caret line="457" column="34" lean-forward="false" selection-start-line="457" selection-start-column="34" selection-end-line="457" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
