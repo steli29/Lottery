@@ -2,57 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6eb962-8d00-4e91-be03-55af93380bd2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$1.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$10.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$11.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$12.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$13.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$13.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$14.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$14.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$15.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$15.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$16.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$16.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$17.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$17.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$18.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$18.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$19.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$19.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$2.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$20.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$20.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$21.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$21.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$22.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$22.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$23.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$23.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$24.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$24.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$25.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$25.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$26.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$26.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$27.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$27.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$28.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$28.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$29.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$29.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$3.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$30.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$30.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$31.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$31.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$32.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$32.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$33.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$33.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$34.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$34.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$35.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$35.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$36.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$36.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$37.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$37.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$38.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$38.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$39.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$39.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$4.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$40.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$40.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$41.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$41.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$42.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$42.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$43.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$43.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$44.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$44.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$45.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$45.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$46.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$46.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$47.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$47.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$48.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$48.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$5.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$6.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$7.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$8.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$9.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery$50.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery$50.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Toto/Lottery.class" afterPath="$PROJECT_DIR$/out/production/Toto/Lottery.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lottery.form" afterPath="$PROJECT_DIR$/src/Lottery.form" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lottery.java" afterPath="$PROJECT_DIR$/src/Lottery.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -68,8 +20,8 @@
       <file leaf-file-name="Lottery.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lottery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="457" column="34" lean-forward="false" selection-start-line="457" selection-start-column="34" selection-end-line="457" selection-end-column="34" />
+            <state relative-caret-position="201">
+              <caret line="136" column="22" lean-forward="true" selection-start-line="136" selection-start-column="22" selection-end-line="136" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,6 +83,9 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,9 +102,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,8 +254,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12202853" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -312,8 +264,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -343,6 +295,51 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Lottery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lottery.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lottery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lottery.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lottery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lottery.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lottery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -579,8 +576,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lottery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="457" column="34" lean-forward="false" selection-start-line="457" selection-start-column="34" selection-end-line="457" selection-end-column="34" />
+        <state relative-caret-position="201">
+          <caret line="136" column="22" lean-forward="true" selection-start-line="136" selection-start-column="22" selection-end-line="136" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

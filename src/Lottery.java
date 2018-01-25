@@ -118,25 +118,25 @@ public class Lottery {
         String prize;
         switch (counter) {
             case 1:
-                prize = "You guessed 1 number and win 3€";
+                prize = "Ти позна 1 число и печелиш 3€.";
                 break;
             case 2:
-                prize = "You guessed 2 numbers and win 10€";
+                prize = "Ти позна 2 числа и печелиш 10€.";
                 break;
             case 3:
-                prize = "You guessed 3 numbers and win 50€";
+                prize = "Ти позна 3 числа и печелиш 50€.";
                 break;
             case 4:
-                prize = "You guessed 4 numbers and win 500€";
+                prize = "Ти позна 4 числа и печелиш 500€.";
                 break;
             case 5:
-                prize = "You guessed 5 numbers and win 1000€";
+                prize = "Ти позна 5 числа и печелиш 1000€.";
                 break;
             case 6:
-                prize = "Congratulations! You guessed all the numbers and win the grand prize 1 000 000€ ";
+                prize = "Поздравления! Ти позна всичките числа и удари джакпота от 1 000 000€.";
                 break;
             default:
-                prize = "You don't win anything.0 guessed numbers.Next time you will be lucky";
+                prize = "Съжалявам, но ти не позна нито едно число.Може би да имаш късмет следващият път.";
         }
         return prize;
     }
@@ -443,8 +443,8 @@ public class Lottery {
                 numberGenerator(firstDrawOfNumbers);
                 numberGenerator(secondDrawOfNumbers);
                 numberGenerator(thirdDrawOfNumbers);
-                JOptionPane.showMessageDialog(null, "First draw " + firstDrawOfNumbers + '\n' + "Second draw " + secondDrawOfNumbers + '\n'
-                        + "Third draw " + thirdDrawOfNumbers + '\n' + getYourPrize(firstDrawOfNumbers, secondDrawOfNumbers, thirdDrawOfNumbers, userPicks));
+                JOptionPane.showMessageDialog(null, "Първо теглене " + firstDrawOfNumbers + '\n' + "Второ теглене " + secondDrawOfNumbers + '\n'
+                        + "Трето теглене " + thirdDrawOfNumbers + '\n' + getYourPrize(firstDrawOfNumbers, secondDrawOfNumbers, thirdDrawOfNumbers, userPicks));
             }
         });
 
